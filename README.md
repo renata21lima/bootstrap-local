@@ -1,4 +1,4 @@
-# bootstrap-local
+# Bootstrap Local
 
 Este repositório foi criado durante uma aula no curso do **SENAI** para aprender a criar interfaces utilizando o **Bootstrap**. O principal objetivo é entender como iniciar um repositório sem o arquivo `README.md` e configurá-lo em uma máquina local para a nuvem, além de mostrar como baixar o **Bootstrap** e compilar os arquivos CSS e JS para serem usados em seu projeto.
 
